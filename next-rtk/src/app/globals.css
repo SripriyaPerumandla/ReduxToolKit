@@ -1,0 +1,37 @@
+.add-user {
+  height: 200px;
+  padding: 10px;
+  border: 3px solid yellowgreen;
+  padding-left: 50px;
+}
+ 
+.add-user-input {
+  height: 35px;
+  width: 250px;
+  display: block;
+}
+ 
+.add-user-btn {
+  height: 35px;
+  width: 250px;
+  display: block;
+  margin-top: 10px;
+}
+ 
+.display-user {
+  height: 200px;
+  padding: 10px;
+  margin-top: 10px;
+  border: 3px solid yellowgreen;
+  padding-left: 50px;
+  overflow: scroll;
+}
+.user-item{
+  background-color: aqua;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 2px;
+  width:200px;
+  display: flex;
+  justify-content: space-between;
+}
